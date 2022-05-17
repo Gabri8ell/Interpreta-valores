@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 25%;
+}
+
+.valor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    border: 5px solid black;
+    padding: 10px;
+}
+
+#btn{
+    margin-top: 10%;
+    width: 50%;
+    height: 30px;
+}
+
